@@ -1,0 +1,22 @@
+"alunos": [
+  {
+    "nome": "Victor",
+    "media": 10
+  }
+  {
+    "nome": "Fulano",
+    "media": 8
+  }
+  {
+    "nome": "Ciclano",
+    "media": 9
+  }
+  {
+    "nome": "Beltrano",
+    "media": 4
+  }
+  {
+    "nome": "Deltrano",
+    "media": 3
+  }
+]

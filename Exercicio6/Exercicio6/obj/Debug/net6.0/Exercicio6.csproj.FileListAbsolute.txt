@@ -1,0 +1,15 @@
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.exe
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.deps.json
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.runtimeconfig.json
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfo.cs
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\refint\Exercicio6.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.genruntimeconfig.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 1°SEMANA\DevInHouse---C-.Net---Semana1\Exercicio6\Exercicio6\obj\Debug\net6.0\ref\Exercicio6.dll
